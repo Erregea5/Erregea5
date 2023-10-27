@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Erregea5/Erregea5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Game Engine
+- 🌱 I’m currently learning Real Analysis
+- 🙁 I’m looking for an internship
+- 📫 How to reach me: lseabasol@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love Cats!!
 
-Here are some ideas to get you started:
+### My Tools
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,threejs,react,unity)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,flask,lua,r,matlab)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erregea5&show_icons=true&locale=en&layout=compact">
