@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Game Engine
+- 🔭 I’m currently making a multiplayer rpg
 - 🌱 I’m currently learning Real Analysis
 - 🙁 I’m looking for an internship
 - 📫 How to reach me: lseabasol@gmail.com
