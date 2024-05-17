@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love Cats!!
 
 ### My Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,threejs,react,java,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,threejs,react,unity)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,flask,lua,r,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,go,py,pytorch,flask,lua)](https://skillicons.dev)
 
 ### Stats
 <!--Inspired by my bro Thomas https://github.com/tthn0-->
