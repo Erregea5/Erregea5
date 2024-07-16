@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently making a 3D art gallery
-- 🔭 I’m currently researching vector field visualization
-- 🤯 I’m currently learning about database systems
+- 🔭 I’m currently interning at Amazon
+- 🤯 I’m currently learning Haskell
 - 📫 How to reach me: lseabasol@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Cats!!
