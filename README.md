@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-- 🌱 I’m currently making a 3D art gallery
-- 🔭 I’m currently interning at Amazon
-- 🤯 I’m currently learning Haskell
+- 🌱 I’m currently making AI for Oil and Gas
+- 🤯 I’m currently studying Real Analysis
 - 📫 How to reach me: lseabasol@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Cats!!
 
 ### My Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,threejs,react,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,threejs,react,cs,unity)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=haskell,go,py,pytorch,flask,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,cpp,py,azure,haskell,go)](https://skillicons.dev)
 
 ### Stats
 <!--Inspired by my bro Thomas https://github.com/tthn0-->
